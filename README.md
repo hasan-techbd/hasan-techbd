@@ -1,8 +1,11 @@
- #HASAN
+ # HASAN
 #### I Am  App Developer
 ![I Am  App Developer]( )
 
-i am a android app developer.i am from Bangladesh.
+i am a android app developer.
+
+
+i am from Bangladesh.
 
 Skills: kotlin
 
@@ -24,4 +27,5 @@ Skills: kotlin
 ![GitHub metrics](https://metrics.lecoq.io/hasan-techbd)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=hasan-techbd)  
+
 
